@@ -1,4 +1,4 @@
 ﻿# Elastic stack on Docker
 
- This repo have configured ELK (Elasticsearch, Logstash, Kibana)
+ This repo has configured ELK (Elasticsearch, Logstash, Kibana)
  along with Filebeat and Metricbeat
